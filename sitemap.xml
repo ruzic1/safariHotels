@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/tour.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/hotels.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/contact.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/about.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/account.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/reservations.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/poll.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/index.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/selectAllUsers.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/newUser.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/userMessages.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/pollChoices.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/userMessages.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>http://safarihotelreservations.getenjoyment.net/template/newHotel.php</loc>
+    <lastmod>2023-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
+</urlset>

